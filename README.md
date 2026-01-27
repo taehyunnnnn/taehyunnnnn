@@ -18,8 +18,7 @@ Welcome to my GitHub!<br>I'm Taehyun, a first year computer science student (@ U
 -->
 
 ## WEBSITES:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge=white)](https://taehyun.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=white)](https://taehyun.pages.dev/)
 [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github=white)](https://taehyunnnnn.github.io)
 
 ## CONTACTS:
