@@ -18,9 +18,8 @@ Welcome to my GitHub!<br>I'm Taehyun, a first year computer science student (@ U
 -->
 
 ## WEBSITES:
-## WEBSITES
-[Portfolio](https://taehyun.pages.dev/)  
-[Blog](https://taehyunnnnn.github.io)
+`Portfolio` → https://taehyun.pages.dev/  
+`Blog` → https://taehyunnnnn.github.io
 
 ## CONTACTS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taehyunim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.taehyun0315@gmail.com) 
