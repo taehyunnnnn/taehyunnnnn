@@ -25,7 +25,7 @@ I'm Taehyun, a 1st year CS student @University of Toronto
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## WEBSITE:
+## WEBSITES:
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge)](https://taehyunnnnn.github.io/taehyun/)
 [![SchooledUp](https://img.shields.io/badge/SchooledUp-0A0A0A?style=for-the-badge)](https://schooledup.app)
 
