@@ -3,8 +3,8 @@
 -->
 
 ## HELLO WORLD!
-I'm Taehyun, a 1st year CS student @University of Toronto 
-<br>This GitHub mainly contains my personal projects
+I'm Taehyun, a 2nd year CS student @University of Toronto 
+<br>This GitHub mainly contains my personal projects!
 
 ## TECH STACK:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
